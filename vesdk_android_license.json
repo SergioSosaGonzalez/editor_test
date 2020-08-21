@@ -1,0 +1,33 @@
+{
+  "api_token": "5ZT2UrbHwRwD3YZxfhTwBQ",
+  "app_identifiers": ["com.editor_test"],
+  "available_actions": [],
+  "domains": ["https://api.photoeditorsdk.com"],
+  "enterprise_license": false,
+  "expires_at": 1595721600,
+  "features": [
+    "camera",
+    "library",
+    "export",
+    "whitelabel",
+    "customassets",
+    "frame",
+    "overlay",
+    "textdesign",
+    "transform",
+    "adjustment",
+    "brush",
+    "filter",
+    "focus",
+    "sticker",
+    "text",
+    "trim"
+  ],
+  "issued_at": 1593142377,
+  "minimum_sdk_version": "1.0",
+  "owner": "Sergio Sosa",
+  "platform": "Android",
+  "products": ["vesdk"],
+  "version": "2.4",
+  "signature": "JIgQ18LRNB9K7RcKguFAPRkmZyDqSfStoPrE8vSB05Gs4+5FBZEUwrbTundLlAzfyrv4UmiX7SZxB247831H9qTk7QizYKSax+NIc4Ail7W34sf3jxDuEBeOxtittAmDvhBYbMRd5eo4Wtkd6gmT3Jh99LgteW2HUfNZS4U5Py2WMwnUXnApEDBMJAbak3mo7XcFZYGGS6PcIwIE9K00j9U17tF3nIEb6kKYsd+mjtY3wh+HFHw9EOoanAucDDbCmRNdgG57Xob+UqlON+l7fTlH4HAjkx17906y9FVSXC3BaoQ3bEtu4M/pbzmefH0AQJRYSxHk2hDI03zhunmYsDBBlAYRlE1aZR3F0IDGEPG1VI/N0Y79EYQp+NCUX5hNjgr2pQz6ZNX73GHVKHqEQO41FVZr0pOjnW5vvJbb/1MIUfyS3qV9e+RXrp5qOryp/O8NIjBe3CLGPgSU1NAowyOl6pdMyP6EgBrCGXwkm3rbKvPnldnwGoWMklPjI9P0uae90GPE9Wm56zEhQ2B6e20UIUVt1xE+5MF9+Doofjlci5PQmkiJd3Ezqn2rtDi/sDVD9LK4fVetnBDR6Eft9HYmlb8zLIncA23gjHIZdCuTyWoBC8Hzfwm4tUbYTt8tGCTqQzzJuAbGgU3gUEbOISgQGHHMiURRWYRq3oTWrMk="
+}
